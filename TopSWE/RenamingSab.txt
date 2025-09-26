@@ -1,0 +1,128 @@
+# import os
+# import re
+# import requests
+# from difflib import get_close_matches
+
+
+# def normalize_filename(filename: str) -> str:
+#     # 1. Remove extension
+#     name, _ = os.path.splitext(filename)
+#     # 2. Replace underscores with spaces
+#     name = name.replace("_", " ")
+#     # 3. Split camelCase / PascalCase
+#     name = re.sub(r'([a-z])([A-Z])', r'\1 \2', name)
+#     # 4. Lowercase everything
+#     name = name.lower()
+#     # 5. Cleanup spaces
+#     name = re.sub(r'\s+', ' ', name).strip()
+#     return name
+# # Test with a single file
+# filename = "twoSum.py"
+# print(f"{filename} -> {normalize_filename(filename)}")
+
+# # ___________________________________________________________________________________________
+
+
+# def get_leetcode_problems():
+#     url="https://leetcode.com/api/problems/all/"
+#     response=requests.get(url)
+#     if response.status_code==200:
+#         data=response.json()
+#         problems=[]
+#         for i in data["stat_status_pairs"]:
+#             stat=i["stat"]
+#             problems.append({
+#                 "id":stat["question_id"],
+#                 "title":stat["question__title"],
+#                 "slug": stat["question__title_slug"]})
+#         return problems
+#     else:
+#         print("Failed to fetch problems:", response.status_code)
+#         return []
+# problems=get_leetcode_problems()
+# leetcode_dict = {}
+# for p in problems:
+#     norm_title = normalize_filename(p["title"])  # normalize LC title
+#     leetcode_dict[norm_title] = (p["id"], p["title"])
+
+# print(f"Total problems fetched: {len(problems)}")
+# # ___________________________________________________________________________
+
+# folder_path = "C:/Users/aditya/Desktop/Codes/DSA/TopSWE"   # change to your folder name
+
+# for filename in os.listdir(folder_path):
+#     if filename.endswith(".py"):
+#         base, ext = os.path.splitext(filename)
+#         norm_filename = normalize_filename(base)
+
+#         matches = get_close_matches(norm_filename, leetcode_dict.keys(), n=1, cutoff=0.75)
+
+#         if matches:
+#             best_match = matches[0]
+#             problem_number, official_title = leetcode_dict[best_match]
+
+#             new_name = f"{problem_number}.{official_title.replace(' ', '')}{ext}"
+#             old_path = os.path.join(folder_path, filename)
+#             new_path = os.path.join(folder_path, new_name)
+
+#             if not os.path.exists(new_path):
+#                 os.rename(old_path, new_path)
+#             else:
+#                 print(f"⚠️ Skipped (already exists): {new_name}")
+
+#         else:
+#             print(f"⚠️ No good match for {filename}")
+
+# # ___________________________________________________________________________________________
+
+
+# import os
+# import re
+
+# folder_path = "C:/Users/aditya/Desktop/Codes/DSA/TopSWE"
+
+# # List all files in the folder
+# files = os.listdir(folder_path)
+
+# # Filter out files that already start with a number and a dot
+# unnumbered_files = [
+#     f for f in files
+#     if re.match(r'^\d+\.', f) is None and f.endswith(".py")
+# ]
+
+# print("Files without preceding number:")
+# for file in unnumbered_files:
+#     print(file)
+
+# # ___________________________________________________________________________________________
+
+# import os
+
+# # Path to your folder
+# folder_path = "C:/Users/aditya/Desktop/Codes/DSA/TopSWE"
+
+# # Hardcoded mapping {filename_without_ext: problem_number}
+# problem_numbers = {
+#     "TwoSum2": 167,             # Two Sum II - Input Array Is Sorted
+#     "ThreeSum": 15,             # 3Sum
+#     "BuyandSellStock": 121,     # Best Time to Buy and Sell Stock
+#     "BuyandSellStock2": 122,    # Best Time to Buy and Sell Stock II
+#     "JumpGame2": 45,            # Jump Game II
+#     "NeedleHaystack": 28,       # Find the Index of the First Occurrence in a String
+#     "RemoveDuplicates2": 80,    # Remove Duplicates from Sorted Array II
+# }
+
+# # Loop over mapping and rename files
+# for name, number in problem_numbers.items():
+#     old_path = os.path.join(folder_path, f"{name}.py")
+#     if os.path.exists(old_path):
+#         new_name = f"{number}.{name}.py"
+#         new_path = os.path.join(folder_path, new_name)
+
+#         if not os.path.exists(new_path):
+#             os.rename(old_path, new_path)
+#             print(f"✅ {name}.py -> {new_name}")
+#         else:
+#             print(f"⚠️ Skipped (already exists): {new_name}")
+#     else:
+#         print(f"❌ File not found: {name}.py")
