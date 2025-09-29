@@ -8,7 +8,7 @@ class Solution:
         
         d={}
         for i,n in enumerate(nums):
-            diff=target-n
+            diff=target-n 
             if diff in d:
                 return [d[diff],i]
             d[n]=i
