@@ -13,7 +13,7 @@ class Solution:
                 return [d[diff],i]
             d[n]=i
    
-   
+#    fvr
             
 # Create an instance of the Solution class
 solution = Solution()
