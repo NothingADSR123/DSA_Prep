@@ -12,6 +12,8 @@
 # Output: false
 # Explanation: The root node's value is 5 but its right child's value is 4.
 
+# Tricky but nice solution 
+
 from typing import Optional,TreeNode
 # Definition for a binary tree node.
 # class TreeNode:
