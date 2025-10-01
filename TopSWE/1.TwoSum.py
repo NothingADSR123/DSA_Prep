@@ -12,10 +12,10 @@ class Solution:
             if diff in d:
                 return [d[diff],i]
             d[n]=i
-# Check
             
 # Create an instance of the Solution class
 solution = Solution()
+# Check
 
 # Call the method using the class instance
 result = solution.twoSum([2, 3, 5, 7, 8, 9, 5, 7, 5, 4], 7)
