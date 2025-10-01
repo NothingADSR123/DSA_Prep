@@ -8,7 +8,7 @@ A curated collection of Data Structures & Algorithms problems solved in Python.
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 78)</summary>
+<summary>📊 Problems Solved (Total: 79)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -56,6 +56,7 @@ A curated collection of Data Structures & Algorithms problems solved in Python.
 | 125 | ValidPalindrome | [Code](TopSWE/125.ValidPalindrome.py) |
 | 128 | LongestConsecutiveSequence | [Code](TopSWE/128.LongestConsecutiveSequence.py) |
 | 129 | SumRoottoLeafNumbers | [Code](TopSWE/129.SumRoottoLeafNumbers.py) |
+| 130 | SurroundedRegions | [Code](TopSWE/130.SurroundedRegions.py) |
 | 134 | GasStation | [Code](TopSWE/134.GasStation.py) |
 | 135 | Candy | [Code](TopSWE/135.Candy.py) |
 | 138 | CopyListwithRandomPointer | [Code](TopSWE/138.CopyListwithRandomPointer.py) |
