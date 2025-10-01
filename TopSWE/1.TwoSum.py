@@ -12,8 +12,7 @@ class Solution:
             if diff in d:
                 return [d[diff],i]
             d[n]=i
-   
-#    fvr
+# Check
             
 # Create an instance of the Solution class
 solution = Solution()
