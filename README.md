@@ -8,7 +8,7 @@ A curated collection of Data Structures & Algorithms problems solved in Python.
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 80)</summary>
+<summary>📊 Problems Solved (Total: 81)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -88,6 +88,7 @@ A curated collection of Data Structures & Algorithms problems solved in Python.
 | 316 | RemoveDuplicateLetters | [Code](TopSWE/316.RemoveDuplicateLetters.py) |
 | 380 | InsertDeleteGetRandomO(1) | [Code](TopSWE/380.InsertDeleteGetRandomO(1).py) |
 | 392 | IsSubsequence | [Code](TopSWE/392.IsSubsequence.py) |
+| 399 | EvaluateDivision | [Code](TopSWE/399.EvaluateDivision.py) |
 | 412 | FizzBuzz | [Code](TopSWE/412.FizzBuzz.py) |
 | 530 | MinimumAbsoluteDifferenceinBST | [Code](TopSWE/530.MinimumAbsoluteDifferenceinBST.py) |
 | 637 | AverageofLevelsinBinaryTree | [Code](TopSWE/637.AverageofLevelsinBinaryTree.py) |
