@@ -8,7 +8,7 @@ A curated collection of Data Structures & Algorithms problems solved in Python.
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 82)</summary>
+<summary>📊 Problems Solved (Total: 83)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -75,6 +75,7 @@ A curated collection of Data Structures & Algorithms problems solved in Python.
 | 206 | ReverseLinkedList | [Code](TopSWE/206.ReverseLinkedList.py) |
 | 207 | CourseSchedule | [Code](TopSWE/207.CourseSchedule.py) |
 | 209 | MinimumSizeSubarraySum | [Code](TopSWE/209.MinimumSizeSubarraySum.py) |
+| 210 | CourseScheduleII | [Code](TopSWE/210.CourseScheduleII.py) |
 | 219 | ContainsDuplicateII | [Code](TopSWE/219.ContainsDuplicateII.py) |
 | 222 | CountCompleteTreeNodes | [Code](TopSWE/222.CountCompleteTreeNodes.py) |
 | 224 | BasicCalculator | [Code](TopSWE/224.BasicCalculator.py) |
