@@ -8,7 +8,7 @@ A curated collection of Data Structures & Algorithms problems solved in Python.
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 84)</summary>
+<summary>📊 Problems Solved (Total: 85)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -92,6 +92,7 @@ A curated collection of Data Structures & Algorithms problems solved in Python.
 | 392 | IsSubsequence | [Code](TopSWE/392.IsSubsequence.py) |
 | 399 | EvaluateDivision | [Code](TopSWE/399.EvaluateDivision.py) |
 | 412 | FizzBuzz | [Code](TopSWE/412.FizzBuzz.py) |
+| 433 | MinimumGeneticMutation | [Code](TopSWE/433.MinimumGeneticMutation.py) |
 | 530 | MinimumAbsoluteDifferenceinBST | [Code](TopSWE/530.MinimumAbsoluteDifferenceinBST.py) |
 | 637 | AverageofLevelsinBinaryTree | [Code](TopSWE/637.AverageofLevelsinBinaryTree.py) |
 | 909 | SnakesandLadders | [Code](TopSWE/909.SnakesandLadders.py) |
