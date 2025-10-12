@@ -8,7 +8,7 @@ A curated collection of Data Structures & Algorithms problems solved in Python.
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 85)</summary>
+<summary>📊 Problems Solved (Total: 86)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -54,6 +54,7 @@ A curated collection of Data Structures & Algorithms problems solved in Python.
 | 122 | BuyandSellStock2 | [Code](TopSWE/122.BuyandSellStock2.py) |
 | 124 | BinaryTreeMaximumPathSum | [Code](TopSWE/124.BinaryTreeMaximumPathSum.py) |
 | 125 | ValidPalindrome | [Code](TopSWE/125.ValidPalindrome.py) |
+| 127 | WordLadder | [Code](TopSWE/127.WordLadder.py) |
 | 128 | LongestConsecutiveSequence | [Code](TopSWE/128.LongestConsecutiveSequence.py) |
 | 129 | SumRoottoLeafNumbers | [Code](TopSWE/129.SumRoottoLeafNumbers.py) |
 | 130 | SurroundedRegions | [Code](TopSWE/130.SurroundedRegions.py) |
