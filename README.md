@@ -6,6 +6,19 @@ A curated collection of Data Structures & Algorithms problems solved in Python.
 
 ---
 
+### 👤 About the Contributor
+
+**Aditya Srivastava** — An enthusiastic learner aiming to be *job-ready* by mastering Data Structures & Algorithms.  
+Passionate about writing clean Python code and solving problems with logic, not luck.  
+*On a journey from curiosity → consistency → competency.*
+
+Connect with me:  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-srivastava-7390aa26a/)  
+- 🧑‍💻 [LeetCode Profile](https://leetcode.com/nothingadsr123/)  
+- 🐙 [GitHub](https://github.com/nothingADSR123)
+
+---
+
 <!-- PROBLEM_TABLE_START -->
 <details>
 <summary>📊 Problems Solved (Total: 86)</summary>
