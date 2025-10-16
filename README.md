@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 86)</summary>
+<summary>📊 Problems Solved (Total: 87)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -88,6 +88,7 @@ Connect with me:
 | 202 | HappyNumber | [Code](TopSWE/202.HappyNumber.py) |
 | 206 | ReverseLinkedList | [Code](TopSWE/206.ReverseLinkedList.py) |
 | 207 | CourseSchedule | [Code](TopSWE/207.CourseSchedule.py) |
+| 208 | ImplementTriePrefixTree | [Code](TopSWE/208.ImplementTriePrefixTree.py) |
 | 209 | MinimumSizeSubarraySum | [Code](TopSWE/209.MinimumSizeSubarraySum.py) |
 | 210 | CourseScheduleII | [Code](TopSWE/210.CourseScheduleII.py) |
 | 219 | ContainsDuplicateII | [Code](TopSWE/219.ContainsDuplicateII.py) |
