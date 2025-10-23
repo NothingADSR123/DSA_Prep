@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 87)</summary>
+<summary>📊 Problems Solved (Total: 88)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -97,6 +97,7 @@ Connect with me:
 | 226 | InvertBinaryTree | [Code](TopSWE/226.InvertBinaryTree.py) |
 | 228 | SummaryRanges | [Code](TopSWE/228.SummaryRanges.py) |
 | 230 | KthSmallestElementinaBST | [Code](TopSWE/230.KthSmallestElementinaBST.py) |
+| 236 | LowestCommonAncestorofaBinaryTree | [Code](TopSWE/236.LowestCommonAncestorofaBinaryTree.py) |
 | 238 | ProductofArrayExceptSelf | [Code](TopSWE/238.ProductofArrayExceptSelf.py) |
 | 242 | ValidAnagram | [Code](TopSWE/242.ValidAnagram.py) |
 | 274 | H-Index | [Code](TopSWE/274.H-Index.py) |
