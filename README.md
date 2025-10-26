@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 88)</summary>
+<summary>📊 Problems Solved (Total: 89)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -91,6 +91,7 @@ Connect with me:
 | 208 | ImplementTriePrefixTree | [Code](TopSWE/208.ImplementTriePrefixTree.py) |
 | 209 | MinimumSizeSubarraySum | [Code](TopSWE/209.MinimumSizeSubarraySum.py) |
 | 210 | CourseScheduleII | [Code](TopSWE/210.CourseScheduleII.py) |
+| 211 | DesignAddandSearchWordsDataStructure | [Code](TopSWE/211.DesignAddandSearchWordsDataStructure.py) |
 | 219 | ContainsDuplicateII | [Code](TopSWE/219.ContainsDuplicateII.py) |
 | 222 | CountCompleteTreeNodes | [Code](TopSWE/222.CountCompleteTreeNodes.py) |
 | 224 | BasicCalculator | [Code](TopSWE/224.BasicCalculator.py) |
