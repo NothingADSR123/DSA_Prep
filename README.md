@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 90)</summary>
+<summary>📊 Problems Solved (Total: 91)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -32,6 +32,7 @@ Connect with me:
 | 13 | RomantoInteger | [Code](TopSWE/13.RomantoInteger.py) |
 | 14 | LongestCommonPrefix | [Code](TopSWE/14.LongestCommonPrefix.py) |
 | 15 | ThreeSum | [Code](TopSWE/15.ThreeSum.py) |
+| 17 | LetterCombinationsofaPhoneNumber | [Code](TopSWE/17.LetterCombinationsofaPhoneNumber.py) |
 | 20 | ValidParentheses | [Code](TopSWE/20.ValidParentheses.py) |
 | 21 | MergeTwoSortedLists | [Code](TopSWE/21.MergeTwoSortedLists.py) |
 | 27 | RemoveElement | [Code](TopSWE/27.RemoveElement.py) |
