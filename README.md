@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 91)</summary>
+<summary>📊 Problems Solved (Total: 92)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -52,6 +52,7 @@ Connect with me:
 | 71 | SimplifyPath | [Code](TopSWE/71.SimplifyPath.py) |
 | 73 | SetMatrixZeroes | [Code](TopSWE/73.SetMatrixZeroes.py) |
 | 76 | MinimumWindowSubstring | [Code](TopSWE/76.MinimumWindowSubstring.py) |
+| 77 | Combinations | [Code](TopSWE/77.Combinations.py) |
 | 80 | RemoveDuplicates2 | [Code](TopSWE/80.RemoveDuplicates2.py) |
 | 88 | MergeSortedArray | [Code](TopSWE/88.MergeSortedArray.py) |
 | 92 | ReverseLinkedListII | [Code](TopSWE/92.ReverseLinkedListII.py) |
