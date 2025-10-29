@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 92)</summary>
+<summary>📊 Problems Solved (Total: 93)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -41,6 +41,7 @@ Connect with me:
 | 36 | ValidSudoku | [Code](TopSWE/36.ValidSudoku.py) |
 | 42 | TrappingRainWater | [Code](TopSWE/42.TrappingRainWater.py) |
 | 45 | JumpGame2 | [Code](TopSWE/45.JumpGame2.py) |
+| 46 | Permutations | [Code](TopSWE/46.Permutations.py) |
 | 48 | RotateImage | [Code](TopSWE/48.RotateImage.py) |
 | 49 | GroupAnagrams | [Code](TopSWE/49.GroupAnagrams.py) |
 | 54 | SpiralMatrix | [Code](TopSWE/54.SpiralMatrix.py) |
