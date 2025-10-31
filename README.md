@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 93)</summary>
+<summary>📊 Problems Solved (Total: 94)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -39,6 +39,7 @@ Connect with me:
 | 28 | NeedleHaystack | [Code](TopSWE/28.NeedleHaystack.py) |
 | 30 | SubstringwithConcatenationofAllWords | [Code](TopSWE/30.SubstringwithConcatenationofAllWords.py) |
 | 36 | ValidSudoku | [Code](TopSWE/36.ValidSudoku.py) |
+| 39 | CombinationSum | [Code](TopSWE/39.CombinationSum.py) |
 | 42 | TrappingRainWater | [Code](TopSWE/42.TrappingRainWater.py) |
 | 45 | JumpGame2 | [Code](TopSWE/45.JumpGame2.py) |
 | 46 | Permutations | [Code](TopSWE/46.Permutations.py) |
