@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 95)</summary>
+<summary>📊 Problems Solved (Total: 96)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -45,6 +45,7 @@ Connect with me:
 | 46 | Permutations | [Code](TopSWE/46.Permutations.py) |
 | 48 | RotateImage | [Code](TopSWE/48.RotateImage.py) |
 | 49 | GroupAnagrams | [Code](TopSWE/49.GroupAnagrams.py) |
+| 51 | N-Queens | [Code](TopSWE/51.N-Queens.py) |
 | 52 | N-QueensII | [Code](TopSWE/52.N-QueensII.py) |
 | 54 | SpiralMatrix | [Code](TopSWE/54.SpiralMatrix.py) |
 | 55 | JumpGame | [Code](TopSWE/55.JumpGame.py) |
