@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 96)</summary>
+<summary>📊 Problems Solved (Total: 97)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -35,6 +35,7 @@ Connect with me:
 | 17 | LetterCombinationsofaPhoneNumber | [Code](TopSWE/17.LetterCombinationsofaPhoneNumber.py) |
 | 20 | ValidParentheses | [Code](TopSWE/20.ValidParentheses.py) |
 | 21 | MergeTwoSortedLists | [Code](TopSWE/21.MergeTwoSortedLists.py) |
+| 22 | GenerateParentheses | [Code](TopSWE/22.GenerateParentheses.py) |
 | 27 | RemoveElement | [Code](TopSWE/27.RemoveElement.py) |
 | 28 | NeedleHaystack | [Code](TopSWE/28.NeedleHaystack.py) |
 | 30 | SubstringwithConcatenationofAllWords | [Code](TopSWE/30.SubstringwithConcatenationofAllWords.py) |
