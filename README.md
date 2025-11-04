@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 99)</summary>
+<summary>📊 Problems Solved (Total: 100)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -85,6 +85,7 @@ Connect with me:
 | 135 | Candy | [Code](TopSWE/135.Candy.py) |
 | 138 | CopyListwithRandomPointer | [Code](TopSWE/138.CopyListwithRandomPointer.py) |
 | 141 | LinkedListCycle | [Code](TopSWE/141.LinkedListCycle.py) |
+| 148 | SortList | [Code](TopSWE/148.SortList.py) |
 | 150 | EvaluateReversePolishNotation | [Code](TopSWE/150.EvaluateReversePolishNotation.py) |
 | 151 | ReverseWordsinaString | [Code](TopSWE/151.ReverseWordsinaString.py) |
 | 155 | MinStack | [Code](TopSWE/155.MinStack.py) |
