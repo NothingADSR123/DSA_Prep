@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 101)</summary>
+<summary>📊 Problems Solved (Total: 102)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -49,6 +49,7 @@ Connect with me:
 | 49 | GroupAnagrams | [Code](TopSWE/49.GroupAnagrams.py) |
 | 51 | N-Queens | [Code](TopSWE/51.N-Queens.py) |
 | 52 | N-QueensII | [Code](TopSWE/52.N-QueensII.py) |
+| 53 | MaximumSubarray | [Code](TopSWE/53.MaximumSubarray.py) |
 | 54 | SpiralMatrix | [Code](TopSWE/54.SpiralMatrix.py) |
 | 55 | JumpGame | [Code](TopSWE/55.JumpGame.py) |
 | 56 | MergeIntervals | [Code](TopSWE/56.MergeIntervals.py) |
