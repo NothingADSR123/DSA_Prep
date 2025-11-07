@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 102)</summary>
+<summary>📊 Problems Solved (Total: 103)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -126,6 +126,7 @@ Connect with me:
 | 530 | MinimumAbsoluteDifferenceinBST | [Code](TopSWE/530.MinimumAbsoluteDifferenceinBST.py) |
 | 637 | AverageofLevelsinBinaryTree | [Code](TopSWE/637.AverageofLevelsinBinaryTree.py) |
 | 909 | SnakesandLadders | [Code](TopSWE/909.SnakesandLadders.py) |
+| 918 | MaximumSumCircularSubarray | [Code](TopSWE/918.MaximumSumCircularSubarray.py) |
 | 3226 | MinimumNumberGame | [Code](TopSWE/3226.MinimumNumberGame.py) |
 
 </details>
