@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 104)</summary>
+<summary>📊 Problems Solved (Total: 105)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -59,6 +59,7 @@ Connect with me:
 | 68 | TextJustification | [Code](TopSWE/68.TextJustification.py) |
 | 71 | SimplifyPath | [Code](TopSWE/71.SimplifyPath.py) |
 | 73 | SetMatrixZeroes | [Code](TopSWE/73.SetMatrixZeroes.py) |
+| 74 | Searcha2DMatrix | [Code](TopSWE/74.Searcha2DMatrix.py) |
 | 76 | MinimumWindowSubstring | [Code](TopSWE/76.MinimumWindowSubstring.py) |
 | 77 | Combinations | [Code](TopSWE/77.Combinations.py) |
 | 79 | WordSearch | [Code](TopSWE/79.WordSearch.py) |
