@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 107)</summary>
+<summary>📊 Problems Solved (Total: 108)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -41,6 +41,7 @@ Connect with me:
 | 28 | NeedleHaystack | [Code](TopSWE/28.NeedleHaystack.py) |
 | 30 | SubstringwithConcatenationofAllWords | [Code](TopSWE/30.SubstringwithConcatenationofAllWords.py) |
 | 33 | SearchinRotatedSortedArray | [Code](TopSWE/33.SearchinRotatedSortedArray.py) |
+| 34 | FindFirstandLastPositionofinSortedArray | [Code](TopSWE/34.FindFirstandLastPositionofinSortedArray.py) |
 | 35 | SearchInsertPosition | [Code](TopSWE/35.SearchInsertPosition.py) |
 | 36 | ValidSudoku | [Code](TopSWE/36.ValidSudoku.py) |
 | 39 | CombinationSum | [Code](TopSWE/39.CombinationSum.py) |
