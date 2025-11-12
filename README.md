@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 108)</summary>
+<summary>📊 Problems Solved (Total: 109)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -94,6 +94,7 @@ Connect with me:
 | 148 | SortList | [Code](TopSWE/148.SortList.py) |
 | 150 | EvaluateReversePolishNotation | [Code](TopSWE/150.EvaluateReversePolishNotation.py) |
 | 151 | ReverseWordsinaString | [Code](TopSWE/151.ReverseWordsinaString.py) |
+| 153 | FindMinimuminRotatedSortedArray | [Code](TopSWE/153.FindMinimuminRotatedSortedArray.py) |
 | 155 | MinStack | [Code](TopSWE/155.MinStack.py) |
 | 162 | FindPeakElement | [Code](TopSWE/162.FindPeakElement.py) |
 | 167 | TwoSum2 | [Code](TopSWE/167.TwoSum2.py) |
