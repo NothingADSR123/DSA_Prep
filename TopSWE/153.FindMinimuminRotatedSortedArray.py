@@ -47,4 +47,4 @@ class Solution:
         #         if nums[l]<nums[r]:
         #             res=min(res,nums[l])
         #             break
-        # return res
+        # return 
