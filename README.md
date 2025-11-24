@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 113)</summary>
+<summary>📊 Problems Solved (Total: 114)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -59,6 +59,7 @@ Connect with me:
 | 56 | MergeIntervals | [Code](TopSWE/56.MergeIntervals.py) |
 | 57 | InsertInterval | [Code](TopSWE/57.InsertInterval.py) |
 | 58 | LengthofLastWord | [Code](TopSWE/58.LengthofLastWord.py) |
+| 67 | AddBinary | [Code](TopSWE/67.AddBinary.py) |
 | 68 | TextJustification | [Code](TopSWE/68.TextJustification.py) |
 | 71 | SimplifyPath | [Code](TopSWE/71.SimplifyPath.py) |
 | 73 | SetMatrixZeroes | [Code](TopSWE/73.SetMatrixZeroes.py) |
