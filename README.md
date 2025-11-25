@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 114)</summary>
+<summary>📊 Problems Solved (Total: 115)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -103,6 +103,7 @@ Connect with me:
 | 169 | MajorityElement | [Code](TopSWE/169.MajorityElement.py) |
 | 173 | BinarySearchTreeIterator | [Code](TopSWE/173.BinarySearchTreeIterator.py) |
 | 189 | RotateArray | [Code](TopSWE/189.RotateArray.py) |
+| 190 | ReverseBits | [Code](TopSWE/190.ReverseBits.py) |
 | 199 | BinaryTreeRightSideView | [Code](TopSWE/199.BinaryTreeRightSideView.py) |
 | 200 | NumberofIslands | [Code](TopSWE/200.NumberofIslands.py) |
 | 202 | HappyNumber | [Code](TopSWE/202.HappyNumber.py) |
