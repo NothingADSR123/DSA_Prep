@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 117)</summary>
+<summary>📊 Problems Solved (Total: 118)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -92,6 +92,7 @@ Connect with me:
 | 134 | GasStation | [Code](TopSWE/134.GasStation.py) |
 | 135 | Candy | [Code](TopSWE/135.Candy.py) |
 | 136 | SingleNumber | [Code](TopSWE/136.SingleNumber.py) |
+| 137 | SingleNumberII | [Code](TopSWE/137.SingleNumberII.py) |
 | 138 | CopyListwithRandomPointer | [Code](TopSWE/138.CopyListwithRandomPointer.py) |
 | 141 | LinkedListCycle | [Code](TopSWE/141.LinkedListCycle.py) |
 | 148 | SortList | [Code](TopSWE/148.SortList.py) |
