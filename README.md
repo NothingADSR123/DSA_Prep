@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 118)</summary>
+<summary>📊 Problems Solved (Total: 119)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -109,6 +109,7 @@ Connect with me:
 | 191 | Numberof1Bits | [Code](TopSWE/191.Numberof1Bits.py) |
 | 199 | BinaryTreeRightSideView | [Code](TopSWE/199.BinaryTreeRightSideView.py) |
 | 200 | NumberofIslands | [Code](TopSWE/200.NumberofIslands.py) |
+| 201 | BitwiseANDofNumbersRange | [Code](TopSWE/201.BitwiseANDofNumbersRange.py) |
 | 202 | HappyNumber | [Code](TopSWE/202.HappyNumber.py) |
 | 206 | ReverseLinkedList | [Code](TopSWE/206.ReverseLinkedList.py) |
 | 207 | CourseSchedule | [Code](TopSWE/207.CourseSchedule.py) |
