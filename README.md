@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 121)</summary>
+<summary>📊 Problems Solved (Total: 122)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -105,6 +105,7 @@ Connect with me:
 | 162 | FindPeakElement | [Code](TopSWE/162.FindPeakElement.py) |
 | 167 | TwoSum2 | [Code](TopSWE/167.TwoSum2.py) |
 | 169 | MajorityElement | [Code](TopSWE/169.MajorityElement.py) |
+| 172 | FactorialTrailingZeroes | [Code](TopSWE/172.FactorialTrailingZeroes.py) |
 | 173 | BinarySearchTreeIterator | [Code](TopSWE/173.BinarySearchTreeIterator.py) |
 | 189 | RotateArray | [Code](TopSWE/189.RotateArray.py) |
 | 190 | ReverseBits | [Code](TopSWE/190.ReverseBits.py) |
