@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 125)</summary>
+<summary>📊 Problems Solved (Total: 126)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -113,6 +113,7 @@ Connect with me:
 | 189 | RotateArray | [Code](TopSWE/189.RotateArray.py) |
 | 190 | ReverseBits | [Code](TopSWE/190.ReverseBits.py) |
 | 191 | Numberof1Bits | [Code](TopSWE/191.Numberof1Bits.py) |
+| 198 | HouseRobber | [Code](TopSWE/198.HouseRobber.py) |
 | 199 | BinaryTreeRightSideView | [Code](TopSWE/199.BinaryTreeRightSideView.py) |
 | 200 | NumberofIslands | [Code](TopSWE/200.NumberofIslands.py) |
 | 201 | BitwiseANDofNumbersRange | [Code](TopSWE/201.BitwiseANDofNumbersRange.py) |
