@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 126)</summary>
+<summary>📊 Problems Solved (Total: 127)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -99,6 +99,7 @@ Connect with me:
 | 136 | SingleNumber | [Code](TopSWE/136.SingleNumber.py) |
 | 137 | SingleNumberII | [Code](TopSWE/137.SingleNumberII.py) |
 | 138 | CopyListwithRandomPointer | [Code](TopSWE/138.CopyListwithRandomPointer.py) |
+| 139 | WordBreak | [Code](TopSWE/139.WordBreak.py) |
 | 141 | LinkedListCycle | [Code](TopSWE/141.LinkedListCycle.py) |
 | 148 | SortList | [Code](TopSWE/148.SortList.py) |
 | 150 | EvaluateReversePolishNotation | [Code](TopSWE/150.EvaluateReversePolishNotation.py) |
