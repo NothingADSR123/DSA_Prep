@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 127)</summary>
+<summary>📊 Problems Solved (Total: 128)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -141,6 +141,7 @@ Connect with me:
 | 290 | WordPattern | [Code](TopSWE/290.WordPattern.py) |
 | 295 | FindMedianfromDataStream | [Code](TopSWE/295.FindMedianfromDataStream.py) |
 | 316 | RemoveDuplicateLetters | [Code](TopSWE/316.RemoveDuplicateLetters.py) |
+| 322 | CoinChange | [Code](TopSWE/322.CoinChange.py) |
 | 373 | FindKPairswithSmallestSums | [Code](TopSWE/373.FindKPairswithSmallestSums.py) |
 | 380 | InsertDeleteGetRandomO(1) | [Code](TopSWE/380.InsertDeleteGetRandomO(1).py) |
 | 392 | IsSubsequence | [Code](TopSWE/392.IsSubsequence.py) |
