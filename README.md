@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 129)</summary>
+<summary>📊 Problems Solved (Total: 130)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -85,6 +85,7 @@ Connect with me:
 | 108 | ConvertSortedArraytoBinarySearchTree | [Code](TopSWE/108.ConvertSortedArraytoBinarySearchTree.py) |
 | 114 | FlattenBinaryTreetoLinkedList | [Code](TopSWE/114.FlattenBinaryTreetoLinkedList.py) |
 | 117 | PopulatingNextRightPointersinEachNodeII | [Code](TopSWE/117.PopulatingNextRightPointersinEachNodeII.py) |
+| 120 | Triangle | [Code](TopSWE/120.Triangle.py) |
 | 121 | BuyandSellStock | [Code](TopSWE/121.BuyandSellStock.py) |
 | 122 | BuyandSellStock2 | [Code](TopSWE/122.BuyandSellStock2.py) |
 | 124 | BinaryTreeMaximumPathSum | [Code](TopSWE/124.BinaryTreeMaximumPathSum.py) |
