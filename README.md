@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 132)</summary>
+<summary>📊 Problems Solved (Total: 133)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -29,6 +29,7 @@ Connect with me:
 | 2 | AddTwoNumbers | [Code](TopSWE/2.AddTwoNumbers.py) |
 | 3 | LongestSubstringWithoutRepeatingCharacters | [Code](TopSWE/3.LongestSubstringWithoutRepeatingCharacters.py) |
 | 4 | MedianofTwoSortedArrays | [Code](TopSWE/4.MedianofTwoSortedArrays.py) |
+| 5 | LongestPalindromicSubstring | [Code](TopSWE/5.LongestPalindromicSubstring.py) |
 | 9 | PalindromeNumber | [Code](TopSWE/9.PalindromeNumber.py) |
 | 12 | IntegertoRoman | [Code](TopSWE/12.IntegertoRoman.py) |
 | 13 | RomantoInteger | [Code](TopSWE/13.RomantoInteger.py) |
