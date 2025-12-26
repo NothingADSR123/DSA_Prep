@@ -15,6 +15,7 @@
 # Input: s = "catsandog", wordDict = ["cats","dog","sand","and","cat"]
 # Output: fals
 
+from typing import List
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         # not a very good question its complex 
