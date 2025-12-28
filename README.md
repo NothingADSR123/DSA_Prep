@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 134)</summary>
+<summary>📊 Problems Solved (Total: 135)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -70,6 +70,7 @@ Connect with me:
 | 69 | Sqrt(x) | [Code](TopSWE/69.Sqrt(x).py) |
 | 70 | ClimbingStairs | [Code](TopSWE/70.ClimbingStairs.py) |
 | 71 | SimplifyPath | [Code](TopSWE/71.SimplifyPath.py) |
+| 72 | EditDistance | [Code](TopSWE/72.EditDistance.py) |
 | 73 | SetMatrixZeroes | [Code](TopSWE/73.SetMatrixZeroes.py) |
 | 74 | Searcha2DMatrix | [Code](TopSWE/74.Searcha2DMatrix.py) |
 | 76 | MinimumWindowSubstring | [Code](TopSWE/76.MinimumWindowSubstring.py) |
