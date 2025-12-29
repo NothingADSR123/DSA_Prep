@@ -29,7 +29,7 @@ def maxProfit(prices):
 
 # Optimal {SINGLE PASS APPROACH}
 def maxProfit(prices):
-    minP=float(inf)
+    minP=float("inf")
     maxP=0
     for i in prices:
         if i < minP:
