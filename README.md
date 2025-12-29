@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 135)</summary>
+<summary>📊 Problems Solved (Total: 136)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -93,6 +93,7 @@ Connect with me:
 | 120 | Triangle | [Code](TopSWE/120.Triangle.py) |
 | 121 | BuyandSellStock | [Code](TopSWE/121.BuyandSellStock.py) |
 | 122 | BuyandSellStock2 | [Code](TopSWE/122.BuyandSellStock2.py) |
+| 123 | BuyandSellStock3 | [Code](TopSWE/123.BuyandSellStock3.py) |
 | 124 | BinaryTreeMaximumPathSum | [Code](TopSWE/124.BinaryTreeMaximumPathSum.py) |
 | 125 | ValidPalindrome | [Code](TopSWE/125.ValidPalindrome.py) |
 | 127 | WordLadder | [Code](TopSWE/127.WordLadder.py) |
