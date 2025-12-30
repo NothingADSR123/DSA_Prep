@@ -21,7 +21,7 @@ Connect with me:
 
 <!-- PROBLEM_TABLE_START -->
 <details>
-<summary>📊 Problems Solved (Total: 137)</summary>
+<summary>📊 Problems Solved (Total: 138)</summary>
 
 | # | Problem | Link / File |
 |---|---------|-------------|
@@ -136,6 +136,7 @@ Connect with me:
 | 212 | WordSearchII | [Code](TopSWE/212.WordSearchII.py) |
 | 215 | KthLargestElementinanArray | [Code](TopSWE/215.KthLargestElementinanArray.py) |
 | 219 | ContainsDuplicateII | [Code](TopSWE/219.ContainsDuplicateII.py) |
+| 221 | MaximalSquare | [Code](TopSWE/221.MaximalSquare.py) |
 | 222 | CountCompleteTreeNodes | [Code](TopSWE/222.CountCompleteTreeNodes.py) |
 | 224 | BasicCalculator | [Code](TopSWE/224.BasicCalculator.py) |
 | 226 | InvertBinaryTree | [Code](TopSWE/226.InvertBinaryTree.py) |
