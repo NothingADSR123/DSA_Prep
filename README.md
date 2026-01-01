@@ -170,6 +170,15 @@ Connect with me:
 <!-- TopSWE_TABLE_END -->
 
 <!-- NeetCodeSheet_TABLE_START -->
+<details>
+<summary>NeetCode Problems (Total: 1)</summary>
+
+| # | Problem | Link |
+|---|---------|------|
+| 1 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
+
+</details>
+
 <!-- NeetCodeSheet_TABLE_END -->
 
 
