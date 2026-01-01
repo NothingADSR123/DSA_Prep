@@ -1,10 +1,12 @@
-name: Update README Table
+name: Update README Tables
 
 on:
   push:
     paths:
-      - 'TopSWE/**'   # run whenever files in TopSWE change
+      - 'TopSWE/**'
+      - 'NeetCodeSheet/**'
       - 'generate_table.py'
+      - 'README.md'
 
 jobs:
   update-readme:
@@ -19,15 +21,15 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Generate README table
+      - name: Generate README tables
         run: python generate_table.py
 
-      - name: Commit & Push changes
+      - name: Commit & push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Auto-update problem table" || echo "No changes to commit"
-          git push origin HEAD:main
-            env:
-              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m "Auto-update problem tables" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
