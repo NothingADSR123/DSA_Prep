@@ -169,8 +169,8 @@ Connect with me:
 
 <!-- TopSWE_TABLE_END -->
 
-<!-- Blind75_TABLE_START -->
-<!-- Blind75_TABLE_END -->
+<!-- NeetCodeSheet_TABLE_START -->
+<!-- NeetCodeSheet_TABLE_END -->
 
 
 
@@ -243,15 +243,3 @@ If you want to connect, drop a follow on github 😎
 - To run a solution: `python3 <topic>/<ID>.<ProblemName>.py`  
 - Use this repo as a study reference — feel free to replicate the structure for your own solutions
 
-
-<!-- NeetCodeSheet_TABLE_START -->
-<details>
-<summary>NeetCode Problems (Total: 1)</summary>
-
-| # | Problem | Link |
-|---|---------|------|
-| 1 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
-
-</details>
-
-<!-- NeetCodeSheet_TABLE_END -->
