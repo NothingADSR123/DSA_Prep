@@ -54,7 +54,7 @@ Connect with me:
 | 46 | Permutations | [Code](TopSWE/46.Permutations.py) |
 | 48 | RotateImage | [Code](TopSWE/48.RotateImage.py) |
 | 49 | GroupAnagrams | [Code](TopSWE/49.GroupAnagrams.py) |
-| 50 | Pow(x, n) | [Code](TopSWE/50.Pow(x,n).py) |
+| 50 | Pow(x, n) | [Code](TopSWE/50.Pow(x, n).py) |
 | 51 | N-Queens | [Code](TopSWE/51.N-Queens.py) |
 | 52 | N-QueensII | [Code](TopSWE/52.N-QueensII.py) |
 | 53 | MaximumSubarray | [Code](TopSWE/53.MaximumSubarray.py) |
