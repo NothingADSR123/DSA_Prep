@@ -22,7 +22,7 @@ Connect with me:
   <img src="TopSWE/Assets/50+daysBadge.png" alt="50+ Days Badge" width="150"/>
 </p>
 
-<p style="text-align:center;">
+<p align="center">
   <em>Consistency milestones earned on LeetCode through daily problem solving</em>
 </p>
 
