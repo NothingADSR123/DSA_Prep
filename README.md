@@ -17,6 +17,16 @@ Connect with me:
 - 🧑‍💻 [LeetCode Profile](https://leetcode.com/nothingadsr123/)  
 - 🐙 [GitHub](https://github.com/nothingADSR123)
 
+<p style="text-align:center;">
+  <img src="TopSWE/Assets/100+daysBadge.png" alt="100+ Days Badge" width="150"/>
+  <img src="TopSWE/Assets/50+daysBadge.png" alt="50+ Days Badge" width="150"/>
+</p>
+
+<p style="text-align:center;">
+  <em>Consistency milestones earned on LeetCode through daily problem solving</em>
+</p>
+
+
 ---
 
 
@@ -54,7 +64,7 @@ Connect with me:
 | 46 | Permutations | [Code](TopSWE/46.Permutations.py) |
 | 48 | RotateImage | [Code](TopSWE/48.RotateImage.py) |
 | 49 | GroupAnagrams | [Code](TopSWE/49.GroupAnagrams.py) |
-| 50 | Pow(x, n) | [Code](TopSWE/50.Pow(x, n).py) |
+| 50 | Pow(x, n) | [Code](TopSWE/50.Pow(x,n).py) |
 | 51 | N-Queens | [Code](TopSWE/51.N-Queens.py) |
 | 52 | N-QueensII | [Code](TopSWE/52.N-QueensII.py) |
 | 53 | MaximumSubarray | [Code](TopSWE/53.MaximumSubarray.py) |
@@ -184,8 +194,9 @@ Connect with me:
 
 
 
-
+---
 Each Python file is named as `<ID>.<ProblemName>.py`, so you can jump directly to it.
+Note that NeetCode Sheet does not have the usual naming convention and the problem id.
 
 ---
 
@@ -236,6 +247,19 @@ def numIslands(grid):
 Thanks to LeetCode, algorithm teachers, and my code companions for inspiration.  
 If you want to connect, drop a follow on github 😎
 
+---
+
+## 📚 Reference Sheets
+
+These problems are curated from well-known DSA preparation sheets:
+
+- 🔗 **Top SWE Sheet**  
+  A comprehensive interview-focused problem set covering arrays, strings, trees, graphs, DP, and more.  
+  👉 https://leetcode.com/studyplan/top-interview-150/
+
+- 🔗 **NeetCode 150 Sheet**  
+  A structured, pattern-based roadmap for cracking coding interviews efficiently.  
+  👉 https://neetcode.io/practice/practice/neetcode150
 ---
 
 ## 🌱 TODO / Roadmap

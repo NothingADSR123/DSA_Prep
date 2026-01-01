@@ -12,7 +12,7 @@ class Solution:
             if diff in d:
                 return [d[diff],i]
             d[n]=i
-  # Check AGain
+  # Check AGainh
           
 # Create an instance of the Solution class
 solution = Solution()
