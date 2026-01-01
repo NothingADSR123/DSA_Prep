@@ -17,7 +17,7 @@ Connect with me:
 - 🧑‍💻 [LeetCode Profile](https://leetcode.com/nothingadsr123/)  
 - 🐙 [GitHub](https://github.com/nothingADSR123)
 
-<p style="text-align:center;">
+<p align="center">
   <img src="TopSWE/Assets/100+daysBadge.png" alt="100+ Days Badge" width="150"/>
   <img src="TopSWE/Assets/50+daysBadge.png" alt="50+ Days Badge" width="150"/>
 </p>
