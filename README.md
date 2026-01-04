@@ -181,12 +181,13 @@ Connect with me:
 
 <!-- NeetCodeSheet_TABLE_START -->
 <details>
-<summary>NeetCode Problems (Total: 2)</summary>
+<summary>NeetCode Problems (Total: 3)</summary>
 
 | # | Problem | Link |
 |---|---------|------|
 | 1 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
-| 2 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
+| 2 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
+| 3 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
 
 </details>
 
