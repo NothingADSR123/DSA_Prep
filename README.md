@@ -181,15 +181,16 @@ Connect with me:
 
 <!-- NeetCodeSheet_TABLE_START -->
 <details>
-<summary>NeetCode Problems (Total: 5)</summary>
+<summary>NeetCode Problems (Total: 6)</summary>
 
 | # | Problem | Link |
 |---|---------|------|
-| 1 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
-| 2 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
-| 3 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
-| 4 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
-| 5 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
+| 1 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
+| 2 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
+| 3 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
+| 4 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
+| 5 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
+| 6 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
 
 </details>
 
