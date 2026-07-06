@@ -181,17 +181,18 @@ Connect with me:
 
 <!-- NeetCodeSheet_TABLE_START -->
 <details>
-<summary>NeetCode Problems (Total: 7)</summary>
+<summary>NeetCode Problems (Total: 8)</summary>
 
 | # | Problem | Link |
 |---|---------|------|
-| 1 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
-| 2 | 567.PermutationinString | [Code](NeetCodeSheet/567.PermutationinString.py) |
-| 3 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
-| 4 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
-| 5 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
-| 6 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
-| 7 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
+| 1 | 239.SlidingWindowMaximum | [Code](NeetCodeSheet/239.SlidingWindowMaximum.py) |
+| 2 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
+| 3 | 567.PermutationinString | [Code](NeetCodeSheet/567.PermutationinString.py) |
+| 4 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
+| 5 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
+| 6 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
+| 7 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
+| 8 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
 
 </details>
 
