@@ -181,18 +181,19 @@ Connect with me:
 
 <!-- NeetCodeSheet_TABLE_START -->
 <details>
-<summary>NeetCode Problems (Total: 8)</summary>
+<summary>NeetCode Problems (Total: 9)</summary>
 
 | # | Problem | Link |
 |---|---------|------|
 | 1 | 239.SlidingWindowMaximum | [Code](NeetCodeSheet/239.SlidingWindowMaximum.py) |
 | 2 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
 | 3 | 567.PermutationinString | [Code](NeetCodeSheet/567.PermutationinString.py) |
-| 4 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
-| 5 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
-| 6 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
-| 7 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
-| 8 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
+| 4 | 739.DailyTemperatures | [Code](NeetCodeSheet/739.DailyTemperatures.py) |
+| 5 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
+| 6 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
+| 7 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
+| 8 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
+| 9 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
 
 </details>
 
