@@ -181,7 +181,7 @@ Connect with me:
 
 <!-- NeetCodeSheet_TABLE_START -->
 <details>
-<summary>NeetCode Problems (Total: 10)</summary>
+<summary>NeetCode Problems (Total: 11)</summary>
 
 | # | Problem | Link |
 |---|---------|------|
@@ -189,12 +189,13 @@ Connect with me:
 | 2 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
 | 3 | 567.PermutationinString | [Code](NeetCodeSheet/567.PermutationinString.py) |
 | 4 | 739.DailyTemperatures | [Code](NeetCodeSheet/739.DailyTemperatures.py) |
-| 5 | 853.CarFleet | [Code](NeetCodeSheet/853.CarFleet.py) |
-| 6 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
-| 7 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
-| 8 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
-| 9 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
-| 10 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
+| 5 | 84.LargestRectangleinHistogram | [Code](NeetCodeSheet/84.LargestRectangleinHistogram.py) |
+| 6 | 853.CarFleet | [Code](NeetCodeSheet/853.CarFleet.py) |
+| 7 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
+| 8 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
+| 9 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
+| 10 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
+| 11 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
 
 </details>
 
