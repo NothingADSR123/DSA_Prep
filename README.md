@@ -181,21 +181,23 @@ Connect with me:
 
 <!-- NeetCodeSheet_TABLE_START -->
 <details>
-<summary>NeetCode Problems (Total: 11)</summary>
+<summary>NeetCode Problems (Total: 13)</summary>
 
 | # | Problem | Link |
 |---|---------|------|
 | 1 | 239.SlidingWindowMaximum | [Code](NeetCodeSheet/239.SlidingWindowMaximum.py) |
 | 2 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
 | 3 | 567.PermutationinString | [Code](NeetCodeSheet/567.PermutationinString.py) |
-| 4 | 739.DailyTemperatures | [Code](NeetCodeSheet/739.DailyTemperatures.py) |
-| 5 | 84.LargestRectangleinHistogram | [Code](NeetCodeSheet/84.LargestRectangleinHistogram.py) |
-| 6 | 853.CarFleet | [Code](NeetCodeSheet/853.CarFleet.py) |
-| 7 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
-| 8 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
-| 9 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
-| 10 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
-| 11 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
+| 4 | 704.BinarySearch | [Code](NeetCodeSheet/704.BinarySearch.py) |
+| 5 | 739.DailyTemperatures | [Code](NeetCodeSheet/739.DailyTemperatures.py) |
+| 6 | 84.LargestRectangleinHistogram | [Code](NeetCodeSheet/84.LargestRectangleinHistogram.py) |
+| 7 | 853.CarFleet | [Code](NeetCodeSheet/853.CarFleet.py) |
+| 8 | 875.KokoEatingBananas | [Code](NeetCodeSheet/875.KokoEatingBananas.py) |
+| 9 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
+| 10 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
+| 11 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
+| 12 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
+| 13 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
 
 </details>
 
