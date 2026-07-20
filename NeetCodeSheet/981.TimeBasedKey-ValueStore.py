@@ -45,7 +45,7 @@ class TimeMap:
         l,r=0,len(value)-1
         while l<=r:
             mid=(l+r)//2
-            if value[mid][1]<=timestamp:
+            if value[mid][1]<=timestamp: 
                 res=value[mid][0]
                 l=mid+1
             else:
