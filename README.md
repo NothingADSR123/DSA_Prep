@@ -181,7 +181,7 @@ Connect with me:
 
 <!-- NeetCodeSheet_TABLE_START -->
 <details>
-<summary>NeetCode Problems (Total: 13)</summary>
+<summary>NeetCode Problems (Total: 14)</summary>
 
 | # | Problem | Link |
 |---|---------|------|
@@ -193,11 +193,12 @@ Connect with me:
 | 6 | 84.LargestRectangleinHistogram | [Code](NeetCodeSheet/84.LargestRectangleinHistogram.py) |
 | 7 | 853.CarFleet | [Code](NeetCodeSheet/853.CarFleet.py) |
 | 8 | 875.KokoEatingBananas | [Code](NeetCodeSheet/875.KokoEatingBananas.py) |
-| 9 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
-| 10 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
-| 11 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
-| 12 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
-| 13 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
+| 9 | 981.TimeBasedKey-ValueStore | [Code](NeetCodeSheet/981.TimeBasedKey-ValueStore.py) |
+| 10 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
+| 11 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
+| 12 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
+| 13 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
+| 14 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
 
 </details>
 
