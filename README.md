@@ -181,24 +181,25 @@ Connect with me:
 
 <!-- NeetCodeSheet_TABLE_START -->
 <details>
-<summary>NeetCode Problems (Total: 14)</summary>
+<summary>NeetCode Problems (Total: 15)</summary>
 
 | # | Problem | Link |
 |---|---------|------|
-| 1 | 239.SlidingWindowMaximum | [Code](NeetCodeSheet/239.SlidingWindowMaximum.py) |
-| 2 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
-| 3 | 567.PermutationinString | [Code](NeetCodeSheet/567.PermutationinString.py) |
-| 4 | 704.BinarySearch | [Code](NeetCodeSheet/704.BinarySearch.py) |
-| 5 | 739.DailyTemperatures | [Code](NeetCodeSheet/739.DailyTemperatures.py) |
-| 6 | 84.LargestRectangleinHistogram | [Code](NeetCodeSheet/84.LargestRectangleinHistogram.py) |
-| 7 | 853.CarFleet | [Code](NeetCodeSheet/853.CarFleet.py) |
-| 8 | 875.KokoEatingBananas | [Code](NeetCodeSheet/875.KokoEatingBananas.py) |
-| 9 | 981.TimeBasedKey-ValueStore | [Code](NeetCodeSheet/981.TimeBasedKey-ValueStore.py) |
-| 10 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
-| 11 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
-| 12 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
-| 13 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
-| 14 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
+| 1 | 143.ReorderList | [Code](NeetCodeSheet/143.ReorderList.py) |
+| 2 | 239.SlidingWindowMaximum | [Code](NeetCodeSheet/239.SlidingWindowMaximum.py) |
+| 3 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
+| 4 | 567.PermutationinString | [Code](NeetCodeSheet/567.PermutationinString.py) |
+| 5 | 704.BinarySearch | [Code](NeetCodeSheet/704.BinarySearch.py) |
+| 6 | 739.DailyTemperatures | [Code](NeetCodeSheet/739.DailyTemperatures.py) |
+| 7 | 84.LargestRectangleinHistogram | [Code](NeetCodeSheet/84.LargestRectangleinHistogram.py) |
+| 8 | 853.CarFleet | [Code](NeetCodeSheet/853.CarFleet.py) |
+| 9 | 875.KokoEatingBananas | [Code](NeetCodeSheet/875.KokoEatingBananas.py) |
+| 10 | 981.TimeBasedKey-ValueStore | [Code](NeetCodeSheet/981.TimeBasedKey-ValueStore.py) |
+| 11 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
+| 12 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
+| 13 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
+| 14 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
+| 15 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
 
 </details>
 
