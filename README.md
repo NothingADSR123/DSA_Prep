@@ -32,7 +32,7 @@ Connect with me:
 
 <!-- TopSWE_TABLE_START -->
 <details>
-<summary>TopSWE Problems (Total: 138)</summary>
+<summary>TopSWE Problems (Total: 139)</summary>
 
 | # | Problem | Link |
 |---|---------|------|
@@ -47,6 +47,7 @@ Connect with me:
 | 14 | LongestCommonPrefix | [Code](TopSWE/14.LongestCommonPrefix.py) |
 | 15 | ThreeSum | [Code](TopSWE/15.ThreeSum.py) |
 | 17 | LetterCombinationsofaPhoneNumber | [Code](TopSWE/17.LetterCombinationsofaPhoneNumber.py) |
+| 19 | RemoveNthNodeFromEndofList | [Code](TopSWE/19.RemoveNthNodeFromEndofList.py) |
 | 20 | ValidParentheses | [Code](TopSWE/20.ValidParentheses.py) |
 | 21 | MergeTwoSortedLists | [Code](TopSWE/21.MergeTwoSortedLists.py) |
 | 22 | GenerateParentheses | [Code](TopSWE/22.GenerateParentheses.py) |
@@ -181,25 +182,26 @@ Connect with me:
 
 <!-- NeetCodeSheet_TABLE_START -->
 <details>
-<summary>NeetCode Problems (Total: 15)</summary>
+<summary>NeetCode Problems (Total: 16)</summary>
 
 | # | Problem | Link |
 |---|---------|------|
 | 1 | 143.ReorderList | [Code](NeetCodeSheet/143.ReorderList.py) |
-| 2 | 239.SlidingWindowMaximum | [Code](NeetCodeSheet/239.SlidingWindowMaximum.py) |
-| 3 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
-| 4 | 567.PermutationinString | [Code](NeetCodeSheet/567.PermutationinString.py) |
-| 5 | 704.BinarySearch | [Code](NeetCodeSheet/704.BinarySearch.py) |
-| 6 | 739.DailyTemperatures | [Code](NeetCodeSheet/739.DailyTemperatures.py) |
-| 7 | 84.LargestRectangleinHistogram | [Code](NeetCodeSheet/84.LargestRectangleinHistogram.py) |
-| 8 | 853.CarFleet | [Code](NeetCodeSheet/853.CarFleet.py) |
-| 9 | 875.KokoEatingBananas | [Code](NeetCodeSheet/875.KokoEatingBananas.py) |
-| 10 | 981.TimeBasedKey-ValueStore | [Code](NeetCodeSheet/981.TimeBasedKey-ValueStore.py) |
-| 11 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
-| 12 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
-| 13 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
-| 14 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
-| 15 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
+| 2 | 19.RemoveNthNodeFromEndofList | [Code](NeetCodeSheet/19.RemoveNthNodeFromEndofList.py) |
+| 3 | 239.SlidingWindowMaximum | [Code](NeetCodeSheet/239.SlidingWindowMaximum.py) |
+| 4 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
+| 5 | 567.PermutationinString | [Code](NeetCodeSheet/567.PermutationinString.py) |
+| 6 | 704.BinarySearch | [Code](NeetCodeSheet/704.BinarySearch.py) |
+| 7 | 739.DailyTemperatures | [Code](NeetCodeSheet/739.DailyTemperatures.py) |
+| 8 | 84.LargestRectangleinHistogram | [Code](NeetCodeSheet/84.LargestRectangleinHistogram.py) |
+| 9 | 853.CarFleet | [Code](NeetCodeSheet/853.CarFleet.py) |
+| 10 | 875.KokoEatingBananas | [Code](NeetCodeSheet/875.KokoEatingBananas.py) |
+| 11 | 981.TimeBasedKey-ValueStore | [Code](NeetCodeSheet/981.TimeBasedKey-ValueStore.py) |
+| 12 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
+| 13 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
+| 14 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
+| 15 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
+| 16 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
 
 </details>
 
