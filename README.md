@@ -182,26 +182,27 @@ Connect with me:
 
 <!-- NeetCodeSheet_TABLE_START -->
 <details>
-<summary>NeetCode Problems (Total: 16)</summary>
+<summary>NeetCode Problems (Total: 17)</summary>
 
 | # | Problem | Link |
 |---|---------|------|
 | 1 | 143.ReorderList | [Code](NeetCodeSheet/143.ReorderList.py) |
 | 2 | 19.RemoveNthNodeFromEndofList | [Code](NeetCodeSheet/19.RemoveNthNodeFromEndofList.py) |
 | 3 | 239.SlidingWindowMaximum | [Code](NeetCodeSheet/239.SlidingWindowMaximum.py) |
-| 4 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
-| 5 | 567.PermutationinString | [Code](NeetCodeSheet/567.PermutationinString.py) |
-| 6 | 704.BinarySearch | [Code](NeetCodeSheet/704.BinarySearch.py) |
-| 7 | 739.DailyTemperatures | [Code](NeetCodeSheet/739.DailyTemperatures.py) |
-| 8 | 84.LargestRectangleinHistogram | [Code](NeetCodeSheet/84.LargestRectangleinHistogram.py) |
-| 9 | 853.CarFleet | [Code](NeetCodeSheet/853.CarFleet.py) |
-| 10 | 875.KokoEatingBananas | [Code](NeetCodeSheet/875.KokoEatingBananas.py) |
-| 11 | 981.TimeBasedKey-ValueStore | [Code](NeetCodeSheet/981.TimeBasedKey-ValueStore.py) |
-| 12 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
-| 13 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
-| 14 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
-| 15 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
-| 16 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
+| 4 | 287.FindtheDuplicateNumber | [Code](NeetCodeSheet/287.FindtheDuplicateNumber.py) |
+| 5 | 424.LongestRepeatingCharacterReplacement | [Code](NeetCodeSheet/424.LongestRepeatingCharacterReplacement.py) |
+| 6 | 567.PermutationinString | [Code](NeetCodeSheet/567.PermutationinString.py) |
+| 7 | 704.BinarySearch | [Code](NeetCodeSheet/704.BinarySearch.py) |
+| 8 | 739.DailyTemperatures | [Code](NeetCodeSheet/739.DailyTemperatures.py) |
+| 9 | 84.LargestRectangleinHistogram | [Code](NeetCodeSheet/84.LargestRectangleinHistogram.py) |
+| 10 | 853.CarFleet | [Code](NeetCodeSheet/853.CarFleet.py) |
+| 11 | 875.KokoEatingBananas | [Code](NeetCodeSheet/875.KokoEatingBananas.py) |
+| 12 | 981.TimeBasedKey-ValueStore | [Code](NeetCodeSheet/981.TimeBasedKey-ValueStore.py) |
+| 13 | ContainsDuplicate | [Code](NeetCodeSheet/ContainsDuplicate.py) |
+| 14 | GroupAnagrams | [Code](NeetCodeSheet/GroupAnagrams.py) |
+| 15 | MaximalSquare | [Code](NeetCodeSheet/MaximalSquare.py) |
+| 16 | TwoSum | [Code](NeetCodeSheet/TwoSum.py) |
+| 17 | ValidAnagram | [Code](NeetCodeSheet/ValidAnagram.py) |
 
 </details>
 
